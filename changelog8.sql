@@ -1,4 +1,4 @@
 --liquibase formatted sql
 
---changeset gob:26
+--changeset foo:27
 INSERT INTO emps VALUES(108,'Fani');
